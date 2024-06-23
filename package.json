@@ -9,5 +9,8 @@
     "start": "node backend/server.js"
   },
   "author": "manav bhullar",
-  "license": "ISC"
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.19.2"
+  }
 }
